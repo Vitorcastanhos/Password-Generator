@@ -29,7 +29,7 @@ input:focus {
 }
 
 #register-banner {
-    background: url("../img/senha-segura.png");
+    background: url("./Img/key.png");
     background-size: cover;
     background-position: center;
     width: 50%;
@@ -116,7 +116,7 @@ input:focus {
     margin-bottom: 0.5rem;
 }
 
-#register-form input[type="submit"], 
+#register-form input[type="submit"],
 #generate-options button,
 #copy-password {
     background-color: #81d340;
@@ -141,38 +141,38 @@ input:focus {
     margin-bottom: 1rem;
     padding: 1rem;
     border: 1px solid #ddd;
-  }
-  
-  #generate-options .form-control {
+}
+
+#generate-options .form-control {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-  }
-  
-  #generate-options label {
+}
+
+#generate-options label {
     font-size: 0.8rem;
-  }
-  
-  #generate-options input[type="text"] {
+}
+
+#generate-options input[type="text"] {
     max-width: 30px;
     text-align: center;
     border: 1px solid #ccc;
-  }
-  
-  #generate-options button {
+}
+
+#generate-options button {
     background-color: #0097ff;
     display: block;
     margin: 0 auto;
-  }
-  
-  #copy-password {
+}
+
+#copy-password {
     margin: 1rem auto;
     background-color: transparent;
     border: 2px solid #81d340;
     color: #81d340;
     padding: 0.5rem 1rem;
-  }
-  
-  .hide {
+}
+
+.hide {
     display: none;
-  }
+}
